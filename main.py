@@ -2,7 +2,8 @@ from googleapiclient.discovery import build
 import pandas as pd
 
 # Masukkan API key Anda di sini
-API_KEY = 'AIzaSyDAd03CvmZQeTR8ToXs_ZGNZ4-ArxE81bE'
+#API_KEY = 'AIzaSyDAd03CvmZQeTR8ToXs_ZGNZ4-ArxE81bE'
+API_KEY = ''
 PLAYLIST_ID = 'PLVe7xQpfOlypjR6GOS5ShaBBke5T8YziB'
 
 # Membangun layanan YouTube
